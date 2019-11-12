@@ -6,7 +6,7 @@ ASP.NET CORE 3.1
 Services and Middleware documentation list
 See live at: https://docs.elitenet.dk/aspnetmiddlewareandservices
 
-This is a list of asp.net core services and middelware, a short introduction about each, and where to find documentation.
+This is a list of asp.net core services and middleware, a short introduction about each, and where to find documentation.
 
 This project is open source. Please contribute at https://github.com/ElitenetDenmark/aspnet-core-middleware-and-services
 
